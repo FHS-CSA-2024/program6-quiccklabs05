@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Program6 {
     public static void main(String [] args){
         Scanner myScanner = new Scanner(System.in);
+        //Create a final variable for Pi and use it in your code
         
         System.out.println("Enter the radius:");
         
